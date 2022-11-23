@@ -1,0 +1,15 @@
+.AddTodo{
+    border: 1px solid black;
+    padding-bottom: 10px;
+    margin: auto;
+    place-content: center;
+    text-align: center;
+}
+
+input{
+    margin-bottom:10px;
+}
+button{
+    margin-top:10px;
+    place-content: center;
+}
